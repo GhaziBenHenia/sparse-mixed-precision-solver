@@ -1,0 +1,6 @@
+/sparse-mixed-precision-solver/build/
+/sparse-mixed-precision-solver/thirdparty/
+/sparse-mixed-precision-solver/out/
+/Benchmark/venv/
+/Benchmark/__pycache__/
+/sparse-mixed-precision-solver/.vs/
